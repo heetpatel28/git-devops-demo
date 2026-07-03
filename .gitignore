@@ -1,0 +1,11 @@
+node_modules/
+
+.terraform/
+
+*.log
+
+.env
+
+.vscode/
+
+.idea/
